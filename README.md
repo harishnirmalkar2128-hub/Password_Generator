@@ -4,7 +4,7 @@ A secure and modern password generator built with Python and CustomTkinter. Feat
 
 | Feature | Preview |
 |---------|---------|
-| Password Generator | <img src="screenshots/password-generator.png" width="280"> |
+| Password Generator | <img src="screenshots/password generator.png" width="280"> |
 | History | <img src="screenshots/history.png" width="280"> |
 
 ✨ Features
