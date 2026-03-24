@@ -3,10 +3,11 @@ A secure and modern password generator built with Python and CustomTkinter. Feat
 
 ## 📸 Screenshots
 
-| Feature | Preview |
-|---------|---------|
-| Password Generator | ![Password Generator](screenshots/password-generator.png =250x) |
-| History | ![History](screenshots/history.png =250x) |
+**Password Generator**
+<img src="screenshots/password-generator.png" width="300">
+
+**History**
+<img src="screenshots/history.png" width="300">
 
 ✨ Features
 - ✅ Password length slider (4-32 characters)
