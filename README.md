@@ -1,13 +1,11 @@
 🔐 Password Generator
 A secure and modern password generator built with Python and CustomTkinter. Features real-time strength meter, dark mode, and one-click copy to clipboard.
-
 ## 📸 Screenshots
 
-**Password Generator**
-<img src="screenshots/password generator.png" width="300">
-
-**History**
-<img src="screenshots/history.png" width="300">
+| Feature | Preview |
+|---------|---------|
+| Password Generator | <img src="screenshots/password-generator.png" width="280"> |
+| History | <img src="screenshots/history.png" width="280"> |
 
 ✨ Features
 - ✅ Password length slider (4-32 characters)
