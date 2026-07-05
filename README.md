@@ -4,8 +4,8 @@ A secure and modern password generator built with Python and CustomTkinter. Feat
 
 | Feature | Preview |
 |---------|---------|
-| Password Generator | <img src="screenshots/password generator.png" width="280"> |
-| History | <img src="screenshots/history.png" width="280"> |
+| Password Generator | <img src="screenshots/password generator.png" width="200"> |
+| History | <img src="screenshots/history.png" width="200"> |
 
 ✨ Features
 - ✅ Password length slider (4-32 characters)
@@ -22,4 +22,20 @@ A secure and modern password generator built with Python and CustomTkinter. Feat
 - Pyperclip
 - JSON (for history storage)
 
+---
 
+## 🌅 My Philosophy
+> ### *"Har din ek naya savera hai"*
+> One step at a time — building practical skills and learning how to protect digital environments effectively, without taking unnecessary pressure. ✨
+
+---
+
+## ✍️ About the Developer
+
+### **Harish Nirmalkar**  
+🎓 **MCA Student** • *Rungta International Skills University*  
+
+💬 **Let's grow together!** I am always open to collaborations, learning discussions, or sharing tech ideas.  
+
+🤝 **Network with me:**  
+👉 [**Visit My LinkedIn Profile** 🌐](https://linkedin.com/in/harish-nirmalkar-b23776394)
